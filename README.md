@@ -1,5 +1,5 @@
 # Hi, I'm Astraea 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A4C3&width=435&lines=中南民族大学25级计算机在读;半吊子全栈工程师;略懂点c语言;校大学生记者团实习记者;咖啡因静脉注射专员;国家级身份证持有者/诺贝尔奖觊觎者/华籍华人;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A4C3&width=435&lines=中南民族大学25级计算机在读;半吊子全栈工程师预备役;略懂点c语言;校大学生记者团实习记者;咖啡因静脉注射专员;国家级身份证持有者/诺贝尔奖觊觎者/华籍华人;)](https://git.io/typing-svg)
 ### Introduction
 - 👨‍💻 中南民族大学25级计算机在读
 - 👀 中南有钱大学卷心菜/半吊子码农/全栈工程师预备役
